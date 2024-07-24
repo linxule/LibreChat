@@ -57,7 +57,6 @@ endpoints:
      disableBuilder: true # Disable Assistants Builder Interface by setting to `true`
      pollIntervalMs: 3000  # Polling interval for checking assistant updates
      timeoutMs: 180000  # Timeout for assistant operations
-  #   # Should only be one or the other, either `supportedIds` or `excludedIds`
      supportedIds: ["asst_2aALNXafG6rtJvIhIlw8ZYum", "asst_DGom2gzAIXX5TeFZo0P211Oz"]
   #   # excludedIds: ["asst_excludedAssistantId"]
   #   Only show assistants that the user created or that were created externally (e.g. in Assistants playground).
