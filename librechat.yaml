@@ -21,7 +21,7 @@ interface:
 
 # Example Registration Object Structure (optional)
 registration:
-  socialLogins: ['github', 'google']
+  #socialLogins: ['github', 'google']
   # allowedDomains:
   # - "gmail.com"
 
